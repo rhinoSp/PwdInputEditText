@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <com.rhino.pwdinputedittext.view.PwdInputEditText
+        android:id="@+id/PwdInputEditText1"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:maxLength="4"/>
+
+    <com.rhino.pwdinputedittext.view.PwdInputEditText
+        android:id="@+id/PwdInputEditText2"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:maxLength="8"/>
+
+    <com.rhino.pwdinputedittext.view.PwdInputEditText
+        android:id="@+id/PwdInputEditText3"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:maxLength="6"/>
+
+    <com.rhino.pwdinputedittext.view.PwdInputEditText
+        android:id="@+id/PwdInputEditText4"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"/>
+
+</LinearLayout>
