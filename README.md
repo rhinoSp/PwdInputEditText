@@ -1,6 +1,9 @@
 # PwdInputEditText
 The custom password view extends EditText.
 
+# Screenshot
+![](https://github.com/rhinoSp/PwdInputEditText/blob/master/screenrecord/screenrecord.gif)  
+
 # Question / Contact Me / Hire Me
 
 Please feel free to ping me at rhino_luo@163.com.
